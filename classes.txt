@@ -1,3 +1,4 @@
-Apple
-Orange
-Light switch
+Camera
+Computer keyboard
+Computer mouse
+Tablet computer
